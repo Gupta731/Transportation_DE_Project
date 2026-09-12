@@ -7,11 +7,11 @@ In this project, I explored the shift from traditional imperative programming to
 
 Key takeaways from this project include:
 
-• Streamlined Pipeline Design: Leveraged SDP to simplify code and reduce complexity compared to traditional procedural pipelines. \n
-• Medallion Architecture: Implemented Bronze, Silver, and Gold layers to ensure high-quality, BI-ready data.
-• Incremental Processing: Utilized Auto Loader for efficient, event-driven data ingestion.
-• Data Governance: Applied Unity Catalog for robust access management and security.
-• Unified Analytics: Explored Genie AI for natural language querying, bridging the gap between data engineering and business insights.
-• This experiment really highlighted how declarative pipelines can lead to faster development, reduced manual orchestration, and less error-prone systems.
+• Streamlined Pipeline Design: Leveraged SDP to simplify code and reduce complexity compared to traditional procedural pipelines.<br>
+• Medallion Architecture: Implemented Bronze, Silver, and Gold layers to ensure high-quality, BI-ready data.<br>
+• Incremental Processing: Utilized Auto Loader for efficient, event-driven data ingestion.<br>
+• Data Governance: Applied Unity Catalog for robust access management and security.<br>
+• Unified Analytics: Explored Genie AI for natural language querying, bridging the gap between data engineering and business insights.<br>
+• This experiment really highlighted how declarative pipelines can lead to faster development, reduced manual orchestration, and less error-prone systems.<br>
 
 <img width="14204" height="4628" alt="architecture" src="https://github.com/user-attachments/assets/d01c77fc-c0ed-42e8-8063-8837226913d6" />
