@@ -1,7 +1,7 @@
 # Transportation_DE_Project
 # End-to-End Data Engineering project using Spark Declarative Pipelines in DataBricks
 
-Excited to share that I have been diving deep into modern data engineering practices by building an end-to-end transportation project using Databricks and LakeFlow Spark Declarative Pipelines (SDP)!
+Delighted to share that I have been diving deep into modern data engineering practices by building an end-to-end transportation project using Databricks and LakeFlow Spark Declarative Pipelines (SDP)!
 
 In this project, I explored the shift from traditional imperative programming to a declarative approach, where the focus is on defining what the data pipeline should achieve rather than manually managing the execution logic.
 
