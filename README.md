@@ -15,3 +15,4 @@ Key takeaways from this project include:
 • This experiment really highlighted how declarative pipelines can lead to faster development, reduced manual orchestration, and less error-prone systems.<br>
 
 <img width="14204" height="4628" alt="architecture" src="https://github.com/user-attachments/assets/d01c77fc-c0ed-42e8-8063-8837226913d6" />
+<img width="767" height="534" alt="image" src="https://github.com/user-attachments/assets/c68aa0c3-1a36-4359-8bf6-d25ddaf7e63c" />
