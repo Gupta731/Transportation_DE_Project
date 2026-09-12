@@ -7,7 +7,7 @@ In this project, I explored the shift from traditional imperative programming to
 
 Key takeaways from this project include:
 
-• Streamlined Pipeline Design: Leveraged SDP to simplify code and reduce complexity compared to traditional procedural pipelines.
+• Streamlined Pipeline Design: Leveraged SDP to simplify code and reduce complexity compared to traditional procedural pipelines. \n
 • Medallion Architecture: Implemented Bronze, Silver, and Gold layers to ensure high-quality, BI-ready data.
 • Incremental Processing: Utilized Auto Loader for efficient, event-driven data ingestion.
 • Data Governance: Applied Unity Catalog for robust access management and security.
